@@ -11,4 +11,4 @@ Statistics student (5th semester) building production-grade AI and data pipeline
 Python · SQL · scikit-learn · XGBoost · Anthropic API · pandas · pytest
 
 ## Contact
-[LinkedIn](https://linkedin.com/in/seu-link-real)
+[LinkedIn](https://www.linkedin.com/in/matheus-rorato-959687360/)
