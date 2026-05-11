@@ -1,16 +1,14 @@
-## Hi there 👋
+# Matheus
 
-<!--
-**MatheusSRLP/MatheusSRLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Statistics student (5th semester) building production-grade AI and data pipelines.
 
-Here are some ideas to get you started:
+## Projects
+- [financial-reports-pipeline](https://github.com/MatheusSRLP/financial-reports-pipeline) — PDF → LLM → SQLite → time-series analysis
+- [churn-prediction-pipeline](https://github.com/MatheusSRLP/churn-prediction-pipeline) — ML classification with SHAP interpretability
+- [enem-inequality-analysis](https://github.com/MatheusSRLP/enem-inequality-analysis) — Statistical analysis of Brazilian education inequality (coming soon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+Python · SQL · scikit-learn · XGBoost · Anthropic API · pandas · pytest
+
+## Contact
+[LinkedIn](https://linkedin.com/in/seu-link-real)
