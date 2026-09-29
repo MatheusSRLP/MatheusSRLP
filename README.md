@@ -1,6 +1,6 @@
 # Matheus
 
-Statistics student (5th semester) building production-grade AI and data pipelines.
+Statistics student building production-grade AI and data pipelines.
 
 ## Projects
 - [financial-reports-pipeline](https://github.com/MatheusSRLP/financial-reports-pipeline) — PDF → LLM → SQLite → time-series analysis
